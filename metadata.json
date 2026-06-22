@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A modern, premium, offline-first Material 3 calculator featuring a gorgeous dark mode UI, mathematical history logger, scientific computations, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
